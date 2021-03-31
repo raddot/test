@@ -1,6 +1,6 @@
 Matrix Operations
 To represent matrix using two dimensional arrays and perform following operations -
-i) Addition using pointers
-ii) Subtraction using pointers
-iii) Transpose using pointers
-iv) Multiplication using pointers
+1) Addition using pointers
+2) Subtraction using pointers
+3) Transpose using pointers
+4) Multiplication using pointers
